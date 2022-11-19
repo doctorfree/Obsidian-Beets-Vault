@@ -1,6 +1,8 @@
 # Media Queries
 
-The Obsidian Beets Vault markdown contains metadata with tags allowing a variety of Obsidian Dataview queries. For example, the markdown for "Fragile" by Yes has the following YAML prelude:
+The Obsidian Beets Vault markdown contains metadata with tags allowing a variety of queries using the [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin for [Obsidian](https://obsidian.md/).
+
+For example, the markdown for "Fragile" by Yes has the following YAML prelude:
 
 ```yaml
 ---
