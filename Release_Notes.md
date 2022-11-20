@@ -84,7 +84,7 @@ Obsidian is required for some features but is not necessary to view the Obsidian
 
 ### Beets Queries
 
-The Obsidian Beets Vault has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Media Queries](https://github.com/doctorfree/Obsidian-Beets-Vault/Media_Queries.md) document.
+The Obsidian Beets Vault has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Beets Queries](Beets_Queries.md) document.
 
 ## Removal
 

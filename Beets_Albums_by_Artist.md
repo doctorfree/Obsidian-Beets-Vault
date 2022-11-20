@@ -1,3 +1,9 @@
+---
+banner: "assets/banners/Beets-Banner.png"
+banner_x: 0.8
+banner_y: 0.2
+---
+
 # Beets Albums by Artist
 
 | **[A](#a)** | **[B](#b)** | **[C](#c)** | **[D](#d)** | **[E](#e)** | **[F](#f)** | **[G](#g)** | **[H](#h)** | **[I](#i)** | **[J](#j)** | **[K](#k)** | **[L](#l)** | **[M](#m)** | **[N](#n)** | **[O](#o)** | **[P](#p)** | **[Q](#q)** | **[R](#r)** | **[S](#s)** | **[T](#t)** | **[U](#u)** | **[V](#v)** | **[W](#w)** | **[X](#x)** | **[Y](#y)** | **[Z](#z)** |
@@ -51,9 +57,6 @@
 ### Aerosmith
 
 - [Big Ones](Beets/Aerosmith/Big_Ones.md)
-
-### A.f.i_
-
 
 ### Afi
 
@@ -134,9 +137,6 @@
 
 - [Disk 51](Beets/Al_Green/Disk_51.md)
 
-### Alicebluegraves
-
-
 ### Alice Cooper
 
 - [Alice Cooper’s Greatest Hits](Beets/Alice_Cooper/Alice_Cooper’s_Greatest_Hits.md)
@@ -150,7 +150,7 @@
 
 - [Alkaline Trio](Beets/Alkaline_Trio/Alkaline_Trio.md)
 - [Crimson](Beets/Alkaline_Trio/Crimson.md)
-- [Crimson [Deluxe Edition] Disc 2](Beets/Alkaline_Trio/Crimson_[Deluxe_Edition]_Disc_2.md)
+- [Crimson Deluxe Edition Disc 2](Beets/Alkaline_Trio/Crimson_[Deluxe_Edition]_Disc_2.md)
 - [From Here to Infirmary](Beets/Alkaline_Trio/From_Here_to_Infirmary.md)
 - [Goddamnit!](Beets/Alkaline_Trio/Goddamnit!.md)
 - [Good Mourning](Beets/Alkaline_Trio/Good_Mourning.md)
@@ -166,7 +166,7 @@
 
 ### Al Martino
 
-- [I Love You Because [Razor & Tie]](Beets/Al_Martino/I_Love_You_Because_[Razor_and_Tie].md)
+- [I Love You Because (Razor & Tie)](Beets/Al_Martino/I_Love_You_Because_[Razor_and_Tie].md)
 
 ### alt-J
 
@@ -409,18 +409,12 @@
 
 - [The Avengers & Other Top Sixties TV Themes Disc 1](Beets/Barry_Gray/The_Avengers_and_Other_Top_Sixties_TV_Themes_Disc_1.md)
 
-### Bass Inc_
-
-
 ### Batteries
 
 - [Batteries](Beets/Batteries/Batteries.md)
 - [Think of Somebody](Beets/Batteries/Think_of_Somebody.md)
 
-### B.b. King And Tracy Chapman
-
-
-### B.b. King & Eric Clapton
+### B.B. King & Eric Clapton
 
 - [Riding With the King](Beets/Bb_King_and_Eric_Clapton/Riding_With_the_King.md)
 
@@ -452,12 +446,6 @@
 - [Odessa - Deluxe Edition](Beets/Bee_Gees/Odessa_-_Deluxe_Edition.md)
 - [Saturday Night Fever](Beets/Bee_Gees/Saturday_Night_Fever.md)
 - [Tales From the Brothers Gibb](Beets/Bee_Gees/Tales_From_the_Brothers_Gibb.md)
-
-### Bee Gees, Peter Frampton_various
-
-
-### Beethoven
-
 
 ### Beirut
 
@@ -542,7 +530,7 @@
 
 ### Billy Vaughn & His Orchestra
 
-- [Sail Along Silv'ry Moon [Box] Disc 4](Beets/Billy_Vaughn_and_His_Orchestra/Sail_Along_Silvry_Moon_[Box]_Disc_4.md)
+- [Sail Along Silv'ry Moon Box Disc 4](Beets/Billy_Vaughn_and_His_Orchestra/Sail_Along_Silvry_Moon_[Box]_Disc_4.md)
 
 ### Bing Crosby
 
@@ -627,9 +615,6 @@
 ### Bloomfield Kooper Stills
 
 - [Super Session](Beets/Bloomfield_Kooper_Stills/Super_Session.md)
-
-### Blowfly
-
 
 ### Blue Ash
 
@@ -721,9 +706,6 @@
 ### Body Count
 
 - [Body Count](Beets/Body_Count/Body_Count.md)
-
-### Boney M_
-
 
 ### Bon Jovi
 
@@ -891,9 +873,6 @@
 - [Tusk](Beets/Camper_Van_Beethoven/Tusk.md)
 - [Vampire Can Mating Oven](Beets/Camper_Van_Beethoven/Vampire_Can_Mating_Oven.md)
 
-### Candi
-
-
 ### Captain Beefheart & His Magic Band
 
 - [The Spotlight Kid / Clear Spot](Beets/Captain_Beefheart_and_His_Magic_Band/The_Spotlight_Kid_-_Clear_Spot.md)
@@ -922,9 +901,6 @@
 ### Carpenters
 
 - [The Singles 1969–1973](Beets/Carpenters/The_Singles_1969–1973.md)
-
-### Cash & Daniels
-
 
 ### Cat Stevens
 
@@ -1059,9 +1035,6 @@
 
 - [Earth Rocker](Beets/Clutch/Earth_Rocker.md)
 
-### Colby Caillat
-
-
 ### Coldplay
 
 - [Violet Hill](Beets/Coldplay/Violet_Hill.md)
@@ -1069,9 +1042,6 @@
 ### Colin Blunstone
 
 - [Collected](Beets/Colin_Blunstone/Collected.md)
-
-### Compilations
-
 
 ### Concerto Armonico
 
@@ -1175,7 +1145,7 @@
 
 - [Locked Out](Beets/Crowded_House/Locked_Out.md)
 - [Together Alone](Beets/Crowded_House/Together_Alone.md)
-- [Weather with You [US]](Beets/Crowded_House/Weather_with_You_[US].md)
+- [Weather with You](Beets/Crowded_House/Weather_with_You_[US].md)
 
 ### Crystals
 
@@ -1212,9 +1182,6 @@
 
 - [Cosmic Trigger](Beets/Damion/Cosmic_Trigger.md)
 - [Universal Love](Beets/Damion/Universal_Love.md)
-
-### Dammit Jim
-
 
 ### Damn Yankees
 
@@ -1271,9 +1238,9 @@
 - [The Next Day](Beets/David_Bowie/The_Next_Day.md)
 - [Young Americans](Beets/David_Bowie/Young_Americans.md)
 - [Best Of Bowie](Beets/David_Bowie/Best_Of_Bowie.md)
-- [Bowie At The Beeb [Disc 1]](Beets/David_Bowie/Bowie_At_The_Beeb_[Disc_1].md)
-- [Bowie At The Beeb [Disc 2]](Beets/David_Bowie/Bowie_At_The_Beeb_[Disc_2].md)
-- [Bowie At The Beeb [Disc 3]](Beets/David_Bowie/Bowie_At_The_Beeb_[Disc_3].md)
+- [Bowie At The Beeb Disc 1](Beets/David_Bowie/Bowie_At_The_Beeb_[Disc_1].md)
+- [Bowie At The Beeb Disc 2](Beets/David_Bowie/Bowie_At_The_Beeb_[Disc_2].md)
+- [Bowie At The Beeb Disc 3](Beets/David_Bowie/Bowie_At_The_Beeb_[Disc_3].md)
 - [Cracked Actor (Live Los Angeles '74)](Beets/David_Bowie/Cracked_Actor_Live_Los_Angeles_74.md)
 - [Life On Mars 45](Beets/David_Bowie/Life_On_Mars_45.md)
 - [The Man Who Sold The World (2015 Remastered Version)](Beets/David_Bowie/The_Man_Who_Sold_The_World_2015_Remastered_Version.md)
@@ -1297,7 +1264,7 @@
 
 ### David Gilmour
 
-- [Live In Gdansk [Disc 1]](Beets/David_Gilmour/Live_In_Gdansk_[Disc_1].md)
+- [Live In Gdansk Disc 1](Beets/David_Gilmour/Live_In_Gdansk_[Disc_1].md)
 
 ### David Gray
 
@@ -1382,7 +1349,7 @@
 
 ### Del Shannon
 
-- [Greatest Hits [Rhino]](Beets/Del_Shannon/Greatest_Hits_[Rhino].md)
+- [Greatest Hits (Rhino)](Beets/Del_Shannon/Greatest_Hits_[Rhino].md)
 
 ### Demi Lovato
 
@@ -1425,7 +1392,7 @@
 
 ### Diana Ross
 
-- [Diana Ross [1970] [Bonus Tracks]](Beets/Diana_Ross/Diana_Ross_[1970]_[Bonus_Tracks].md)
+- [Diana Ross (1970) (Bonus Tracks)](Beets/Diana_Ross/Diana_Ross_[1970]_[Bonus_Tracks].md)
 
 ### Diana Ross & Supremes
 
@@ -1435,16 +1402,13 @@
 
 - [Life Like](Beets/Dig/Life_Like.md)
 
-### Dinosaur Jr_
-
-
 ### Dion
 
 - [Unknown Album](Beets/Dion/Unknown_Album.md)
 
 ### Dionne Warwick
 
-- [The Very Best of Dionne Warwick [Rhino]](Beets/Dionne_Warwick/The_Very_Best_of_Dionne_Warwick_[Rhino].md)
+- [The Very Best of Dionne Warwick (Rhino)](Beets/Dionne_Warwick/The_Very_Best_of_Dionne_Warwick_[Rhino].md)
 
 ### Dire Straits
 
@@ -1471,9 +1435,6 @@
 - [Paris and London](Beets/Django_Reinhardt/Paris_and_London.md)
 - [Paris and London](Beets/Django_Reinhardt/Paris_and_London.md)
 - [Un Geant Sur Son Nuage Vol. 3](Beets/Django_Reinhardt/Un_Geant_Sur_Son_Nuage_Vol_3.md)
-
-### Dj Louis Louis
-
 
 ### Dj Moule
 
@@ -1508,6 +1469,8 @@
 
 - [Camp David Demos](Beets/Donnie_Record/Camp_David_Demos.md)
 - [Donnie Record](Beets/Donnie_Record/Donnie_Record.md)
+- [Franklin, TN](Beets/Don_Record/Franklin__TN.md)
+- [Reservation](Beets/Don_Record/Reservation.md)
 
 ### Donny Hathaway
 
@@ -1524,11 +1487,6 @@
 - [Try For The Sun](Beets/Donovan/Try_For_The_Sun.md)
 - [Try For The Sun](Beets/Donovan/Try_For_The_Sun.md)
 
-### Don Record
-
-- [Franklin, TN](Beets/Don_Record/Franklin__TN.md)
-- [Reservation](Beets/Don_Record/Reservation.md)
-
 ### Doris Day
 
 - [16 Most Requested Songs](Beets/Doris_Day/16_Most_Requested_Songs.md)
@@ -1536,9 +1494,6 @@
 ### Dr. Dog
 
 - [Shame, Shame](Beets/Dr_Dog/Shame__Shame.md)
-
-### Dr Dre
-
 
 ### Dr. Dre
 
@@ -1604,8 +1559,8 @@
 
 - [Hotel California](Beets/Eagles/Hotel_California.md)
 - [The Very Best Of The Eagles](Beets/Eagles/The_Very_Best_Of_The_Eagles.md)
-- [The Very Best Of The Eagles [Disc 1]](Beets/Eagles/The_Very_Best_Of_The_Eagles_[Disc_1].md)
-- [The Very Best of The Eagles [Disc 2]](Beets/Eagles/The_Very_Best_of_The_Eagles_[Disc_2].md)
+- [The Very Best Of The Eagles Disc 1](Beets/Eagles/The_Very_Best_Of_The_Eagles_[Disc_1].md)
+- [The Very Best of The Eagles Disc 2](Beets/Eagles/The_Very_Best_of_The_Eagles_[Disc_2].md)
 
 ### Earth
 
@@ -1707,9 +1662,9 @@
 ### Emerson, Lake & Palmer
 
 - [Emerson, Lake & Palmer](Beets/Emerson__Lake_and_Palmer/Emerson__Lake_and_Palmer.md)
-- [Emerson, Lake & Palmer [2012 Stereo Mixes]](Beets/Emerson__Lake_and_Palmer/Emerson__Lake_and_Palmer_[2012_Stereo_Mixes].md)
+- [Emerson, Lake & Palmer 2012 Stereo Mixes](Beets/Emerson__Lake_and_Palmer/Emerson__Lake_and_Palmer_[2012_Stereo_Mixes].md)
 - [Tarkus](Beets/Emerson__Lake_and_Palmer/Tarkus.md)
-- [Tarkus [The Alternate Tarkus - 2012 Stereo Mixes - Steve Wilson - 2013]](Beets/Emerson__Lake_and_Palmer/Tarkus_[The_Alternate_Tarkus_-_2012_Stereo_Mixes_-_Steve_Wilson_-_2013].md)
+- [Tarkus (The Alternate Tarkus - 2012 Stereo Mixes - Steve Wilson - 2013)](Beets/Emerson__Lake_and_Palmer/Tarkus_[The_Alternate_Tarkus_-_2012_Stereo_Mixes_-_Steve_Wilson_-_2013].md)
 - [The Atlantic Years](Beets/Emerson__Lake_and_Palmer/The_Atlantic_Years.md)
 - [Trilogy Deluxe Edition (5.1 Remix)](Beets/Emerson__Lake_and_Palmer/Trilogy_Deluxe_Edition_51_Remix.md)
 - [Trilogy Deluxe Edition (New Stereo Trilogy)](Beets/Emerson__Lake_and_Palmer/Trilogy_Deluxe_Edition_New_Stereo_Trilogy.md)
@@ -1769,9 +1724,6 @@
 - [The Essential Etta James](Beets/Etta_James/The_Essential_Etta_James.md)
 - [Gold](Beets/Etta_James/Gold.md)
 
-### Eugene Chadbourne_the Eddie Chatterbox Double Trio
-
-
 ### Eurythmics
 
 - [Revenge](Beets/Eurythmics/Revenge.md)
@@ -1779,7 +1731,7 @@
 ### Evanescence
 
 - [Anywhere but Home](Beets/Evanescence/Anywhere_but_Home.md)
-- [Anywhere But Home [Live]](Beets/Evanescence/Anywhere_But_Home_[Live].md)
+- [Anywhere But Home (Live)](Beets/Evanescence/Anywhere_But_Home_[Live].md)
 - [Fallen](Beets/Evanescence/Fallen.md)
 - [The Open Door](Beets/Evanescence/The_Open_Door.md)
 
@@ -1809,7 +1761,7 @@
 ### Fastball
 
 - [All the Pain Money Can Buy](Beets/Fastball/All_the_Pain_Money_Can_Buy.md)
-- [Harsh Light of Day [Bonus Tracks]](Beets/Fastball/Harsh_Light_of_Day_[Bonus_Tracks].md)
+- [Harsh Light of Day (Bonus Tracks)](Beets/Fastball/Harsh_Light_of_Day_[Bonus_Tracks].md)
 - [Keep Your Wig On](Beets/Fastball/Keep_Your_Wig_On.md)
 - [Make Your Mama Proud](Beets/Fastball/Make_Your_Mama_Proud.md)
 
@@ -1831,9 +1783,6 @@
 
 - [Feels](Beets/Feels/Feels.md)
 
-### Ferry Corsten Vs. Atb
-
-
 ### Final Summation
 
 - [A New Approach](Beets/Final_Summation/A_New_Approach.md)
@@ -1847,9 +1796,6 @@
 ### Fire Bug
 
 - [MP3 Downloads](Beets/Fire_Bug/MP3_Downloads.md)
-
-### Five Satins
-
 
 ### Flash
 
@@ -1865,12 +1811,12 @@
 - [Live at the Boston Tea Party, Part Two](Beets/Fleetwood_Mac/Live_at_the_Boston_Tea_Party__Part_Two.md)
 - [Live At The Boston Tea Party, Pt. 3](Beets/Fleetwood_Mac/Live_At_The_Boston_Tea_Party__Pt_3.md)
 - [Live at The Marquee](Beets/Fleetwood_Mac/Live_at_The_Marquee.md)
-- [Madison Blues [Disc 2]](Beets/Fleetwood_Mac/Madison_Blues_[Disc_2].md)
+- [Madison Blues Disc 2](Beets/Fleetwood_Mac/Madison_Blues_[Disc_2].md)
 - [Madison Blues Live](Beets/Fleetwood_Mac/Madison_Blues_Live.md)
 - [Mystery to Me](Beets/Fleetwood_Mac/Mystery_to_Me.md)
 - [Rumours](Beets/Fleetwood_Mac/Rumours.md)
 - [Shrine ’69](Beets/Fleetwood_Mac/Shrine_’69.md)
-- [The Best Of Peter Green`s Fleetwood Mac](Beets/Fleetwood_Mac/The_Best_Of_Peter_Green`s_Fleetwood_Mac.md)
+- [The Best Of Peter Green's Fleetwood Mac](Beets/Fleetwood_Mac/The_Best_Of_Peter_Green's_Fleetwood_Mac.md)
 
 ### Flo & Eddie
 
@@ -1886,9 +1832,6 @@
 ### Floyd Cramer
 
 - [Classic Country - 1960-1964](Beets/Floyd_Cramer/Classic_Country_-_1960-1964.md)
-
-### Foreigner
-
 
 ### Four Aces
 
@@ -1917,7 +1860,7 @@
 
 ### Frankie Valli & The Four Seasons
 
-- [The Very Best of Frankie Valli & the Four Seasons [Rhino 2002]](Beets/Frankie_Valli_and_The_Four_Seasons/The_Very_Best_of_Frankie_Valli_and_the_Four_Seasons_[Rhino_2002].md)
+- [The Very Best of Frankie Valli & the Four Seasons (Rhino 2002)](Beets/Frankie_Valli_and_The_Four_Seasons/The_Very_Best_of_Frankie_Valli_and_the_Four_Seasons_[Rhino_2002].md)
 
 ### Frank Sinatra
 
@@ -1937,9 +1880,6 @@
 - [Strictly Commercial](Beets/Frank_Zappa/Strictly_Commercial.md)
 - [We're Only in It for the Money](Beets/Frank_Zappa/Were_Only_in_It_for_the_Money.md)
 - [You Are What You Is](Beets/Frank_Zappa/You_Are_What_You_Is.md)
-
-### Frank Zappa and The Mothers
-
 
 ### Frank Zappa & The Mothers
 
@@ -2043,9 +1983,6 @@
 - [George Harrison](Beets/George_Harrison/George_Harrison.md)
 - [The Best of Dark Horse (1976-1989)](Beets/George_Harrison/The_Best_of_Dark_Horse_1976-1989.md)
 
-### George Harrison_eric Clapton & Band
-
-
 ### George Michael
 
 - [The Best of George Michael](Beets/George_Michael/The_Best_of_George_Michael.md)
@@ -2068,9 +2005,6 @@
 ### Girls
 
 - [Album](Beets/Girls/Album.md)
-
-### Girls' Generation
-
 
 ### Girls’ Generation
 
@@ -2141,9 +2075,6 @@
 
 - [Graham Nash, David Crosby](Beets/Graham_Nash__David_Crosby/Graham_Nash__David_Crosby.md)
 
-### Gram Parsons & Emmylou Harris
-
-
 ### Grand Atlantic
 
 - [Legacy of Power Pop - Power Pop Planet Best Of](Beets/Grand_Atlantic/Legacy_of_Power_Pop_-_Power_Pop_Planet_Best_Of.md)
@@ -2165,7 +2096,7 @@
 ### Green Day
 
 - [21st Century Breakdown](Beets/Green_Day/21st_Century_Breakdown.md)
-- [21st Century Breakdown (Amazon MP3 Exclusive) [Explicit]](Beets/Green_Day/21st_Century_Breakdown_Amazon_MP3_Exclusive_[Explicit].md)
+- [21st Century Breakdown (Amazon MP3 Exclusive)](Beets/Green_Day/21st_Century_Breakdown_Amazon_MP3_Exclusive_[Explicit].md)
 - [American Idiot](Beets/Green_Day/American_Idiot.md)
 - [Dookie](Beets/Green_Day/Dookie.md)
 - [Revolution Radio](Beets/Green_Day/Revolution_Radio.md)
@@ -2230,7 +2161,7 @@
 ### Hank Williams Iii
 
 - [Straight To Hell - Explicit](Beets/Hank_Williams_Iii/Straight_To_Hell_-_Explicit.md)
-- [Straight To Hell [Disc 2]](Beets/Hank_Williams_Iii/Straight_To_Hell_[Disc_2].md)
+- [Straight To Hell Disc 2](Beets/Hank_Williams_Iii/Straight_To_Hell_[Disc_2].md)
 - [Lovesick, Broke & Driftin’](Beets/Hank_Williams_Iii/Lovesick__Broke_and_Driftin’.md)
 - [Risin' Outlaw](Beets/Hank_Williams_Iii/Risin_Outlaw.md)
 - [Straight to Hell](Beets/Hank_Williams_Iii/Straight_to_Hell.md)
@@ -2242,9 +2173,6 @@
 ### Hans Staymer Band
 
 - [Dig A Hole](Beets/Hans_Staymer_Band/Dig_A_Hole.md)
-
-### Hans Zimmer and Junkie XL
-
 
 ### Harmonium
 
@@ -2258,7 +2186,7 @@
 
 - [...That's The Way It Is](Beets/Harry_Nilsson/Thats_The_Way_It_Is.md)
 - [A Little Touch Of Schmilsson In The Night](Beets/Harry_Nilsson/A_Little_Touch_Of_Schmilsson_In_The_Night.md)
-- [Aerial Ballet [stereo - mono]](Beets/Harry_Nilsson/Aerial_Ballet_[stereo_-_mono].md)
+- [Aerial Ballet (stereo - mono)](Beets/Harry_Nilsson/Aerial_Ballet_[stereo_-_mono].md)
 - [Harry](Beets/Harry_Nilsson/Harry.md)
 - [Harry Nilsson - Anthology - Personal Best - CD1](Beets/Harry_Nilsson/Harry_Nilsson_-_Anthology_-_Personal_Best_-_CD1.md)
 - [KNNILLSSONN](Beets/Harry_Nilsson/KNNILLSSONN.md)
@@ -2326,9 +2254,6 @@
 ### Heloise & The Savoir Faire
 
 - [Trash, Rats, and Microphones](Beets/Heloise_and_The_Savoir_Faire/Trash__Rats__and_Microphones.md)
-
-### Henryk Szeryng; Antal Dorati_ London Symphony Orchestra
-
 
 ### Henry Mancini
 
@@ -2412,14 +2337,9 @@
 
 - [Memory Lane Traffic Jam](Beets/Icecream_Hands/Memory_Lane_Traffic_Jam.md)
 
-### Ice Cream Hands
-
-
 ### Idle Jets
 
 - [Atomic Fireball](Beets/Idle_Jets/Atomic_Fireball.md)
-
-### Igor Oistrakh, George Malcolm, Georg Fischer, Wiener Symphoniker, Royal Philharmonic Orchestra, Eugene Goossens, David Oistrakh
 
 ### 池玲子 (Ike Reiko)
 
@@ -2437,9 +2357,6 @@
 
 - [Helpless White Grub](Beets/Infested/Helpless_White_Grub.md)
 
-### Ingo Swann and Steven Halpern
-
-
 ### Ingo Swann And Steven Halpern
 
 - [Star Children](Beets/Ingo_Swann_And_Steven_Halpern/Star_Children.md)
@@ -2447,9 +2364,6 @@
 ### Isaac Hayes
 
 - [Ultimate Isaac Hayes](Beets/Isaac_Hayes/Ultimate_Isaac_Hayes.md)
-
-### István Kertész_ London Symphony Orchestra
-
 
 ### It's A Beautiful Day
 
@@ -2572,10 +2486,10 @@
 - [Bellybutton](Beets/Jellyfish/Bellybutton.md)
 - [Bellybutton Demos](Beets/Jellyfish/Bellybutton_Demos.md)
 - [Bellybutton Reissue](Beets/Jellyfish/Bellybutton_Reissue.md)
-- [Fan Club [Disc 1] - Bellybutton Tour](Beets/Jellyfish/Fan_Club_[Disc_1]_-_Bellybutton_Tour.md)
-- [Fan Club [Disc 1] - The Bellybutton Demos, 1988-'89](Beets/Jellyfish/Fan_Club_[Disc_1]_-_The_Bellybutton_Demos__1988-89.md)
+- [Fan Club Disc 1 - Bellybutton Tour](Beets/Jellyfish/Fan_Club_[Disc_1]_-_Bellybutton_Tour.md)
+- [Fan Club Disc 1 - The Bellybutton Demos, 1988-'89](Beets/Jellyfish/Fan_Club_[Disc_1]_-_The_Bellybutton_Demos__1988-89.md)
 - [Fan Club](Beets/Jellyfish/Fan_Club.md)
-- [Fan Club_The Spilt Milk Tour [Disc 4]](Beets/Jellyfish/Fan_Club_The_Spilt_Milk_Tour_[Disc_4].md)
+- [Fan Club_The Spilt Milk Tour Disc 4](Beets/Jellyfish/Fan_Club_The_Spilt_Milk_Tour_[Disc_4].md)
 - [Live At Bogart's](Beets/Jellyfish/Live_At_Bogarts.md)
 - [Radio Jellyfish](Beets/Jellyfish/Radio_Jellyfish.md)
 - [Spilt Milk](Beets/Jellyfish/Spilt_Milk.md)
@@ -2583,7 +2497,7 @@
 
 ### Jennifer Lopez
 
-- [J.Lo [Bonus Track]](Beets/Jennifer_Lopez/JLo_[Bonus_Track].md)
+- [J.Lo (Bonus Track)](Beets/Jennifer_Lopez/JLo_[Bonus_Track].md)
 
 ### Jennifer Terran
 
@@ -2612,7 +2526,7 @@
 
 ### Jesus Christ Superstar - The Original Studio Cast
 
-- [Jesus Christ Superstar (2012 Digitally Re-Mastered Edition) [+digital booklet]](Beets/Jesus_Christ_Superstar_-_The_Original_Studio_Cast/Jesus_Christ_Superstar_2012_Digitally_Re-Mastered_Edition_[+digital_booklet].md)
+- [Jesus Christ Superstar (2012 Digitally Re-Mastered Edition +digital booklet)](Beets/Jesus_Christ_Superstar_-_The_Original_Studio_Cast/Jesus_Christ_Superstar_2012_Digitally_Re-Mastered_Edition_[+digital_booklet].md)
 
 ### Jethro Tull
 
@@ -2672,7 +2586,7 @@
 
 ### Jim Reeves
 
-- [The Essential Jim Reeves [RCA]](Beets/Jim_Reeves/The_Essential_Jim_Reeves_[RCA].md)
+- [The Essential Jim Reeves (RCA)](Beets/Jim_Reeves/The_Essential_Jim_Reeves_[RCA].md)
 
 ### J.j. Cale
 
@@ -2704,9 +2618,6 @@
 ### Joe Dowell
 
 - [1000 Nadelstiche - Vol. 4](Beets/Joe_Dowell/1000_Nadelstiche_-_Vol_4.md)
-
-### Joee_
-
 
 ### Joe Feat Mystikal
 
@@ -2803,17 +2714,14 @@
 
 ### John Lennon & Yoko Ono
 
-- [Double Fantasy Stripped Down [Disc 1]](Beets/John_Lennon_and_Yoko_Ono/Double_Fantasy_Stripped_Down_[Disc_1].md)
-- [Double Fantasy Stripped Down [Disc 2]](Beets/John_Lennon_and_Yoko_Ono/Double_Fantasy_Stripped_Down_[Disc_2].md)
-- [Some Time In New York City [Disc 1]](Beets/John_Lennon_and_Yoko_Ono/Some_Time_In_New_York_City_[Disc_1].md)
-- [Some Time In New York City [Disc 2]](Beets/John_Lennon_and_Yoko_Ono/Some_Time_In_New_York_City_[Disc_2].md)
+- [Double Fantasy Stripped Down Disc 1](Beets/John_Lennon_and_Yoko_Ono/Double_Fantasy_Stripped_Down_[Disc_1].md)
+- [Double Fantasy Stripped Down Disc 2](Beets/John_Lennon_and_Yoko_Ono/Double_Fantasy_Stripped_Down_[Disc_2].md)
+- [Some Time In New York City Disc 1](Beets/John_Lennon_and_Yoko_Ono/Some_Time_In_New_York_City_[Disc_1].md)
+- [Some Time In New York City Disc 2](Beets/John_Lennon_and_Yoko_Ono/Some_Time_In_New_York_City_[Disc_2].md)
 
 ### Johnnie Ray
 
 - [Unknown Album](Beets/Johnnie_Ray/Unknown_Album.md)
-
-### Johnnie Ray G_four Lads
-
 
 ### Johnnie Taylor
 
@@ -2950,7 +2858,7 @@
 
 ### Kaleidoscope
 
-- [Faintly Blowing [Bonus Tracks]](Beets/Kaleidoscope/Faintly_Blowing_[Bonus_Tracks].md)
+- [Faintly Blowing (Bonus Tracks)](Beets/Kaleidoscope/Faintly_Blowing_[Bonus_Tracks].md)
 
 ### Kansas
 
@@ -2960,15 +2868,9 @@
 
 - [The College Dropout](Beets/Kanye_West/The_College_Dropout.md)
 
-### Karlheinz Zoeller, Berliner Philharmoniker, Herbert Karajan
-
-
 ### Kat Deluna
 
 - [9 Lives](Beets/Kat_Deluna/9_Lives.md)
-
-### Kate Nash
-
 
 ### Kate Rusby
 
@@ -2990,7 +2892,7 @@
 
 - [Unknown Album](Beets/Kay_Star/Unknown_Album.md)
 
-### Kbc Band
+### KBC Band
 
 - [K B C](Beets/Kbc_Band/K_B_C.md)
 
@@ -3119,8 +3021,8 @@
 
 ### Led Zeppelin
 
-- [BBC Sessions [Live] [Disc 1]](Beets/Led_Zeppelin/BBC_Sessions_[Live]_[Disc_1].md)
-- [BBC Sessions [Live] [Disc 2]](Beets/Led_Zeppelin/BBC_Sessions_[Live]_[Disc_2].md)
+- [BBC Sessions (Live) Disc 1](Beets/Led_Zeppelin/BBC_Sessions_[Live]_[Disc_1].md)
+- [BBC Sessions (Live) Disc 2](Beets/Led_Zeppelin/BBC_Sessions_[Live]_[Disc_2].md)
 - [Houses of the Holy](Beets/Led_Zeppelin/Houses_of_the_Holy.md)
 - [How the West Was Won](Beets/Led_Zeppelin/How_the_West_Was_Won.md)
 - [Led Zeppelin II](Beets/Led_Zeppelin/Led_Zeppelin_II.md)
@@ -3136,9 +3038,6 @@
 - [Hello](Beets/Lee_Michaels/Hello.md)
 - [Live](Beets/Lee_Michaels/Live.md)
 - [Recital](Beets/Lee_Michaels/Recital.md)
-
-### L.e.o_
-
 
 ### Leo Kottke
 
@@ -3209,7 +3108,7 @@
 
 ### Lily Allen
 
-- [It's Not Me, It's You [+Digital Booklet] [Explicit]](Beets/Lily_Allen/Its_Not_Me__Its_You_[+Digital_Booklet]_[Explicit].md)
+- [It's Not Me, It's You (+Digital Booklet)](Beets/Lily_Allen/Its_Not_Me__Its_You_[+Digital_Booklet]_[Explicit].md)
 
 ### Linda Ronstadt
 
@@ -3225,15 +3124,9 @@
 
 - [For Paul](Beets/Live_Babe__Ox_Set/For_Paul.md)
 
-### Liz Phair
-
-
 ### Lloyd Price
 
 - [Unknown Album](Beets/Lloyd_Price/Unknown_Album.md)
-
-### Lofi Mind
-
 
 ### Loggins & Messina
 
@@ -3396,7 +3289,7 @@
 - [Indaba Remixes From Wonderland](Beets/Marcy_Playground/Indaba_Remixes_From_Wonderland.md)
 - [Leaving Wonderland... In a Fit of Rage](Beets/Marcy_Playground/Leaving_Wonderland_In_a_Fit_of_Rage.md)
 - [Lunch, Recess & Detention](Beets/Marcy_Playground/Lunch__Recess_and_Detention.md)
-- [Lunch, Recess & Detention [+digital booklet]](Beets/Marcy_Playground/Lunch__Recess_and_Detention_[+digital_booklet].md)
+- [Lunch, Recess & Detention (+digital booklet)](Beets/Marcy_Playground/Lunch__Recess_and_Detention_[+digital_booklet].md)
 - [Marcy Playground](Beets/Marcy_Playground/Marcy_Playground.md)
 - [MP3](Beets/Marcy_Playground/MP3.md)
 - [Shapeshifter](Beets/Marcy_Playground/Shapeshifter.md)
@@ -3456,8 +3349,8 @@
 
 - [Anthology](Beets/Marvin_Gaye/Anthology.md)
 - [Lets Get It On (Live)](Beets/Marvin_Gaye/Lets_Get_It_On_Live.md)
-- [What's Going On - 40th Anniversary [Super Deluxe] [Disc 1]](Beets/Marvin_Gaye/Whats_Going_On_-_40th_Anniversary_[Super_Deluxe]_[Disc_1].md)
-- [What's Going On - 40th Anniversary [Super Deluxe] [Disc 2]](Beets/Marvin_Gaye/Whats_Going_On_-_40th_Anniversary_[Super_Deluxe]_[Disc_2].md)
+- [What's Going On - 40th Anniversary (Super Deluxe) Disc 1](Beets/Marvin_Gaye/Whats_Going_On_-_40th_Anniversary_[Super_Deluxe]_[Disc_1].md)
+- [What's Going On - 40th Anniversary (Super Deluxe) Disc 2](Beets/Marvin_Gaye/Whats_Going_On_-_40th_Anniversary_[Super_Deluxe]_[Disc_2].md)
 
 ### Mary Black
 
@@ -3505,7 +3398,7 @@
 
 ### Meat Loaf
 
-- [I'd Lie for You [#2]](Beets/Meat_Loaf/Id_Lie_for_You_[2].md)
+- [I'd Lie for You #2](Beets/Meat_Loaf/Id_Lie_for_You_[2].md)
 
 ### Meat Puppets
 
@@ -3533,9 +3426,6 @@
 
 - [Alchemy](Beets/Meytal/Alchemy.md)
 
-### M.i.a_
-
-
 ### Michael Boddicker
 
 - [The Adventures Of Buckaroo Banzai Soundtrack](Beets/Michael_Boddicker/The_Adventures_Of_Buckaroo_Banzai_Soundtrack.md)
@@ -3558,7 +3448,7 @@
 ### Michael Jackson
 
 - [Off the Wall](Beets/Michael_Jackson/Off_the_Wall.md)
-- [Thriller [Bonus Tracks]](Beets/Michael_Jackson/Thriller_[Bonus_Tracks].md)
+- [Thriller (Bonus Tracks)](Beets/Michael_Jackson/Thriller_[Bonus_Tracks].md)
 
 ### Michael Mcdonald
 
@@ -3578,9 +3468,6 @@
 ### Mike Batt And Friends
 
 - [Tarot Suite](Beets/Mike_Batt_And_Friends/Tarot_Suite.md)
-
-### Mike Batt & Friends
-
 
 ### Mike Ness
 
@@ -3613,9 +3500,6 @@
 ### Mockingbirds
 
 - [Mockingbirds](Beets/Mockingbirds/Mockingbirds.md)
-
-### Moe_
-
 
 ### Moistboyz
 
@@ -3664,9 +3548,6 @@
 ### Mount Eerie
 
 - [No Flashlight](Beets/Mount_Eerie/No_Flashlight.md)
-
-### Mozart
-
 
 ### Mr. Big
 
@@ -3750,7 +3631,7 @@
 ### Nat King Cole
 
 - [1950](Beets/Nat_King_Cole/1950.md)
-- [The Greatest Hits [Capitol]](Beets/Nat_King_Cole/The_Greatest_Hits_[Capitol].md)
+- [The Greatest Hits (Capitol)](Beets/Nat_King_Cole/The_Greatest_Hits_[Capitol].md)
 - [Unknown Album](Beets/Nat_King_Cole/Unknown_Album.md)
 
 ### Nazz
@@ -3884,17 +3765,14 @@
 - [Spirit in the Sky](Beets/Norman_Greenbaum/Spirit_in_the_Sky.md)
 - [Unknown Album](Beets/Norman_Greenbaum/Unknown_Album.md)
 
-### Nwa W_ Easy E
-
-
 ## O
 
 ### Oasis
 
 - [(What’s the Story) Morning Glory?](Beets/Oasis/What’s_the_Story_Morning_Glory.md)
 - [Definitely Maybe](Beets/Oasis/Definitely_Maybe.md)
-- [Time Flies... 1994-2009 [Disc 1]](Beets/Oasis/Time_Flies_1994-2009_[Disc_1].md)
-- [Time Flies... 1994-2009 [Disc 2]](Beets/Oasis/Time_Flies_1994-2009_[Disc_2].md)
+- [Time Flies... 1994-2009 Disc 1](Beets/Oasis/Time_Flies_1994-2009_[Disc_1].md)
+- [Time Flies... 1994-2009 Disc 2](Beets/Oasis/Time_Flies_1994-2009_[Disc_2].md)
 
 ### Oingo Boingo
 
@@ -3930,7 +3808,7 @@
 
 ### Original Cast Recording
 
-- [West Side Story [CBS Original Cast]](Beets/Original_Cast_Recording/West_Side_Story_[CBS_Original_Cast].md)
+- [West Side Story (CBS Original Cast)](Beets/Original_Cast_Recording/West_Side_Story_[CBS_Original_Cast].md)
 
 ### Original Score
 
@@ -3938,7 +3816,7 @@
 
 ### Original Soundtrack
 
-- [Cheetah Girls [EP]](Beets/Original_Soundtrack/Cheetah_Girls_[EP].md)
+- [Cheetah Girls (EP)](Beets/Original_Soundtrack/Cheetah_Girls_[EP].md)
 - [Heavy Metal](Beets/Original_Soundtrack/Heavy_Metal.md)
 - [Mission Impossible 2](Beets/Original_Soundtrack/Mission_Impossible_2.md)
 
@@ -3953,9 +3831,6 @@
 ### Os Mutantes
 
 - [Os Mutantes](Beets/Os_Mutantes/Os_Mutantes.md)
-
-### Otis Redding
-
 
 ### Outta Body Experience
 
@@ -3976,12 +3851,6 @@
 - [Blizzard of Ozz](Beets/Ozzy_Osbourne/Blizzard_of_Ozz.md)
 - [Blizzard Of Ozz](Beets/Ozzy_Osbourne/Blizzard_Of_Ozz.md)
 - [Down To Earth](Beets/Ozzy_Osbourne/Down_To_Earth.md)
-
-### Ozzy Osbourne & Frank Zappa
-
-
-### Ozzy Osbourne & Madonna
-
 
 ## P
 
@@ -4037,8 +3906,8 @@
 
 ### Patti Smith
 
-- [Land (1975-2002) [Disc 1]](Beets/Patti_Smith/Land_1975-2002_[Disc_1].md)
-- [Land (1975-2002) [Disc 2]](Beets/Patti_Smith/Land_1975-2002_[Disc_2].md)
+- [Land (1975-2002) Disc 1](Beets/Patti_Smith/Land_1975-2002_[Disc_1].md)
+- [Land (1975-2002) Disc 2](Beets/Patti_Smith/Land_1975-2002_[Disc_2].md)
 - [Land (1975–2002)](Beets/Patti_Smith/Land_1975–2002.md)
 
 ### Paul Anka
@@ -4198,13 +4067,13 @@
 - [Meddle](Beets/Pink_Floyd/Meddle.md)
 - [Rome 6.5.1968 VPRO](Beets/Pink_Floyd/Rome_651968_VPRO.md)
 - [The Dark Side of the Moon](Beets/Pink_Floyd/The_Dark_Side_of_the_Moon.md)
-- [The Dark Side Of The Moon [Live] [Disc 2] [Remaster]](Beets/Pink_Floyd/The_Dark_Side_Of_The_Moon_[Live]_[Disc_2]_[Remaster].md)
-- [The Dark Side Of The Moon [Remaster]](Beets/Pink_Floyd/The_Dark_Side_Of_The_Moon_[Remaster].md)
+- [The Dark Side Of The Moon (Live) Disc 2 (Remaster)](Beets/Pink_Floyd/The_Dark_Side_Of_The_Moon_[Live]_[Disc_2]_[Remaster].md)
+- [The Dark Side Of The Moon (Remaster)](Beets/Pink_Floyd/The_Dark_Side_Of_The_Moon_[Remaster].md)
 - [The Division Bell](Beets/Pink_Floyd/The_Division_Bell.md)
 - [The Endless River](Beets/Pink_Floyd/The_Endless_River.md)
 - [The Piper at the Gates of Dawn](Beets/Pink_Floyd/The_Piper_at_the_Gates_of_Dawn.md)
-- [The Wall [Remaster] [Disc 1]](Beets/Pink_Floyd/The_Wall_[Remaster]_[Disc_1].md)
-- [The Wall [Remaster] [Disc 2]](Beets/Pink_Floyd/The_Wall_[Remaster]_[Disc_2].md)
+- [The Wall (Remaster) Disc 1](Beets/Pink_Floyd/The_Wall_[Remaster]_[Disc_1].md)
+- [The Wall (Remaster) Disc 2](Beets/Pink_Floyd/The_Wall_[Remaster]_[Disc_2].md)
 - [Ummagumma](Beets/Pink_Floyd/Ummagumma.md)
 - [Wish You Were Here](Beets/Pink_Floyd/Wish_You_Were_Here.md)
 
@@ -4344,9 +4213,6 @@
 
 - [Fool Around](Beets/Rachel_Sweet/Fool_Around.md)
 
-### Racontours
-
-
 ### Radiohead
 
 - [Hail To the Thief](Beets/Radiohead/Hail_To_the_Thief.md)
@@ -4359,8 +4225,8 @@
 ### Railroad Earth
 
 - [Bird in a House](Beets/Railroad_Earth/Bird_in_a_House.md)
-- [Elko [Live] [Disc 1]](Beets/Railroad_Earth/Elko_[Live]_[Disc_1].md)
-- [Elko [Live] [Disc 2]](Beets/Railroad_Earth/Elko_[Live]_[Disc_2].md)
+- [Elko (Live) Disc 1](Beets/Railroad_Earth/Elko_[Live]_[Disc_1].md)
+- [Elko (Live) Disc 2](Beets/Railroad_Earth/Elko_[Live]_[Disc_2].md)
 - [The Last of the Outlaws](Beets/Railroad_Earth/The_Last_of_the_Outlaws.md)
 
 ### Ramblin' Jack Elliot
@@ -4397,7 +4263,7 @@
 
 - [Genius Loves Company](Beets/Ray_Charles/Genius_Loves_Company.md)
 - [Hit Collection](Beets/Ray_Charles/Hit_Collection.md)
-- [Modern Sounds in Country and Western Music [Bonus Tracks]](Beets/Ray_Charles/Modern_Sounds_in_Country_and_Western_Music_[Bonus_Tracks].md)
+- [Modern Sounds in Country and Western Music (Bonus Tracks)](Beets/Ray_Charles/Modern_Sounds_in_Country_and_Western_Music_[Bonus_Tracks].md)
 - [Unknown Album](Beets/Ray_Charles/Unknown_Album.md)
 
 ### Ray Davies
@@ -4447,9 +4313,6 @@
 ### Reid Paley
 
 - [Lucky's Tune](Beets/Reid_Paley/Luckys_Tune.md)
-
-### R.e.m_
-
 
 ### Renaissance
 
@@ -4505,19 +4368,13 @@
 - [The Six Wives Of Henry VIII](Beets/Rick_Wakeman/The_Six_Wives_Of_Henry_VIII.md)
 - [The Six Wives Of Henry VIII (DVD audio)](Beets/Rick_Wakeman/The_Six_Wives_Of_Henry_VIII_DVD_audio.md)
 
-### Rick Walker
-
-
 ### Riders In The Sky
 
 - [The Cowboy Way](Beets/Riders_In_The_Sky/The_Cowboy_Way.md)
 
-### Rihanna & Ne-yo
-
-
 ### Ringo Starr
 
-- [Ringo [Bonus Tracks]](Beets/Ringo_Starr/Ringo_[Bonus_Tracks].md)
+- [Ringo (Bonus Tracks)](Beets/Ringo_Starr/Ringo_[Bonus_Tracks].md)
 - [Ringo](Beets/Ringo_Starr/Ringo.md)
 - [Time Takes Time](Beets/Ringo_Starr/Time_Takes_Time.md)
 
@@ -4579,9 +4436,6 @@
 - [Reason To Believe](Beets/Rod_Stewart/Reason_To_Believe.md)
 - [Every Picture Tells a Story](Beets/Rod_Stewart/Every_Picture_Tells_a_Story.md)
 
-### Roger Joseph Manning Jr_
-
-
 ### Roger Mcguinn
 
 - [Back From Rio](Beets/Roger_Mcguinn/Back_From_Rio.md)
@@ -4634,13 +4488,10 @@
 - [In Dreams](Beets/Roy_Orbison/In_Dreams.md)
 - [Unknown Album (7/31/2005 4](Beets/Roy_Orbison/Unknown_Album_7-31-2005_4.md)
 
-### Run Dmc
-
-
 ### Rush
 
 - [2112](Beets/Rush/2112.md)
-- [R30 [Disc 1]](Beets/Rush/R30_[Disc_1].md)
+- [R30 Disc 1](Beets/Rush/R30_[Disc_1].md)
 
 ### Rvivr
 
@@ -4657,12 +4508,6 @@
 ### Sachdev
 
 - [Raga Bhupali - Sachdev In Concert](Beets/Sachdev/Raga_Bhupali_-_Sachdev_In_Concert.md)
-
-### Sacreduproar
-
-
-### Salsburyp
-
 
 ### Sambadá
 
@@ -4695,9 +4540,6 @@
 
 - [X = The Cycle](Beets/Sapos_Muertos/X_=_The_Cycle.md)
 
-### Sarah Bailleres
-
-
 ### Sarah Jane
 
 - [Demo CD](Beets/Sarah_Jane/Demo_CD.md)
@@ -4721,9 +4563,6 @@
 ### Sawyer Brown
 
 - [Drive Me Wild](Beets/Sawyer_Brown/Drive_Me_Wild.md)
-
-### Schawnthebard
-
 
 ### Seals & Crofts
 
@@ -4840,15 +4679,6 @@
 
 - [Sister Double Happiness](Beets/Sister_Double_Happiness/Sister_Double_Happiness.md)
 
-### Sj5
-
-
-### Sjjackson
-
-
-### Skid Row
-
-
 ### Slash
 
 - [Slash](Beets/Slash/Slash.md)
@@ -4909,9 +4739,6 @@
 ### Sneaky Creekans
 
 - [Bobo](Beets/Sneaky_Creekans/Bobo.md)
-
-### Social D
-
 
 ### Social Distortion
 
@@ -4975,9 +4802,6 @@
 - [The Last Picture Show](Beets/Soundtrack/The_Last_Picture_Show.md)
 - [zensnap up](Beets/Soundtrack/zensnap_up.md)
 
-### Soundtracks
-
-
 ### Spankin Rufus
 
 - [Spankin Rufus](Beets/Spankin_Rufus/Spankin_Rufus.md)
@@ -5014,9 +4838,6 @@
 - [Still... Again](Beets/Spot_1019/Still_Again.md)
 - [This World Owes Me a Buzz](Beets/Spot_1019/This_World_Owes_Me_a_Buzz.md)
 
-### Spys
-
-
 ### Squeeze
 
 - [Argybargy](Beets/Squeeze/Argybargy.md)
@@ -5029,9 +4850,6 @@
 ### Starr, Kay
 
 - [Unknown Album](Beets/Starr__Kay/Unknown_Album.md)
-
-### Stay
-
 
 ### Steam
 
@@ -5046,9 +4864,6 @@
 - [Aja](Beets/Steely_Dan/Aja.md)
 - [Countdown to Ecstasy](Beets/Steely_Dan/Countdown_to_Ecstasy.md)
 - [Pretzel Logic](Beets/Steely_Dan/Pretzel_Logic.md)
-
-### Stephen Marley Featuring Damian _jr. Gong_ Marley
-
 
 ### Stephen Stills
 
@@ -5071,9 +4886,6 @@
 - [Guitar Town](Beets/Steve_Earle/Guitar_Town.md)
 - [I Feel Alright](Beets/Steve_Earle/I_Feel_Alright.md)
 - [Trancendental Blues](Beets/Steve_Earle/Trancendental_Blues.md)
-
-### Steve Earle_lucinda Williams
-
 
 ### Steve Hackett
 
@@ -5129,9 +4941,6 @@
 
 - [Songs of Love (Victoria’s Secret exclusive)](Beets/Sting/Songs_of_Love_Victoria’s_Secret_exclusive.md)
 
-### St. Louis Union
-
-
 ### Streetlight Manifesto
 
 - [Keasbey Nights](Beets/Streetlight_Manifesto/Keasbey_Nights.md)
@@ -5160,9 +4969,6 @@
 ### Sugarloaf
 
 - [The Best of Sugarloaf](Beets/Sugarloaf/The_Best_of_Sugarloaf.md)
-
-### Sun Sawed In 1_2
-
 
 ### Super Furry Animals
 
@@ -5272,7 +5078,7 @@
 - [D Fun Pak](Beets/Tenacious_D/D_Fun_Pak.md)
 - [Rize of the Fenix](Beets/Tenacious_D/Rize_of_the_Fenix.md)
 - [Tenacious D](Beets/Tenacious_D/Tenacious_D.md)
-- [The Pick Of Destiny [Explicit]](Beets/Tenacious_D/The_Pick_Of_Destiny_[Explicit].md)
+- [The Pick Of Destiny (Explicit)](Beets/Tenacious_D/The_Pick_Of_Destiny_[Explicit].md)
 
 ### Ten Years After
 
@@ -5332,7 +5138,7 @@
 ### The Archies
 
 - [Everything's Archie](Beets/The_Archies/Everythings_Archie.md)
-- [The Very Best of the Archies [Cleopatra]](Beets/The_Archies/The_Very_Best_of_the_Archies_[Cleopatra].md)
+- [The Very Best of the Archies (Cleopatra)](Beets/The_Archies/The_Very_Best_of_the_Archies_[Cleopatra].md)
 
 ### The Artichoke Project
 
@@ -5354,9 +5160,6 @@
 ### The Balkan Noyz Boyz
 
 - [Boyz Will Be Boyz](Beets/The_Balkan_Noyz_Boyz/Boyz_Will_Be_Boyz.md)
-
-### The Band
-
 
 ### The Bangles
 
@@ -5406,25 +5209,25 @@
 - [Sgt. Pepper’s Lonely Hearts Club Band](Beets/The_Beatles/Sgt_Pepper’s_Lonely_Hearts_Club_Band.md)
 - [With The Beatles](Beets/The_Beatles/With_The_Beatles.md)
 - [1](Beets/The_Beatles/1.md)
-- [1 [2015 Version]](Beets/The_Beatles/1_[2015_Version].md)
+- [1 (2015 Version)](Beets/The_Beatles/1_[2015_Version].md)
 - [Abbey Road](Beets/The_Beatles/Abbey_Road.md)
-- [Anthology 1 [Disc 1]](Beets/The_Beatles/Anthology_1_[Disc_1].md)
-- [Anthology 1 [Disc 2]](Beets/The_Beatles/Anthology_1_[Disc_2].md)
-- [Anthology 2 [Disc 2]](Beets/The_Beatles/Anthology_2_[Disc_2].md)
+- [Anthology 1 Disc 1](Beets/The_Beatles/Anthology_1_[Disc_1].md)
+- [Anthology 1 Disc 2](Beets/The_Beatles/Anthology_1_[Disc_2].md)
+- [Anthology 2 Disc 2](Beets/The_Beatles/Anthology_2_[Disc_2].md)
 - [Australia And Japan](Beets/The_Beatles/Australia_And_Japan.md)
-- [Blackpool And Paris 1964-`65](Beets/The_Beatles/Blackpool_And_Paris_1964-`65.md)
+- [Blackpool And Paris 1964-'65](Beets/The_Beatles/Blackpool_And_Paris_1964-'65.md)
 - [Help](Beets/The_Beatles/Help.md)
 - [Love](Beets/The_Beatles/Love.md)
 - [New York, Miami And Philadelphia - The First And Second U.S. Tours](Beets/The_Beatles/New_York__Miami_And_Philadelphia_-_The_First_And_Second_US_Tours.md)
 - [Past Masters Volume One](Beets/The_Beatles/Past_Masters_Volume_One.md)
 - [Past Masters, Vol. 1](Beets/The_Beatles/Past_Masters__Vol_1.md)
-- [Real Love [US Single]](Beets/The_Beatles/Real_Love_[US_Single].md)
+- [Real Love (US Single)](Beets/The_Beatles/Real_Love_[US_Single].md)
 - [The Beatles (White Album)](Beets/The_Beatles/The_Beatles_White_Album.md)
 - [The Beatles 1](Beets/The_Beatles/The_Beatles_1.md)
 - [The Lost Abbey Road Tapes 1962-'64](Beets/The_Beatles/The_Lost_Abbey_Road_Tapes_1962-64.md)
 - [The Lost BBC Tapes and Much More...](Beets/The_Beatles/The_Lost_BBC_Tapes_and_Much_More.md)
 - [The Lost Decca Audition Tapes](Beets/The_Beatles/The_Lost_Decca_Audition_Tapes.md)
-- [With The Beatles [2009 Stereo Remaster]](Beets/The_Beatles/With_The_Beatles_[2009_Stereo_Remaster].md)
+- [With The Beatles (2009 Stereo Remaster)](Beets/The_Beatles/With_The_Beatles_[2009_Stereo_Remaster].md)
 
 ### The Black Crowes
 
@@ -5484,7 +5287,7 @@
 
 ### The Charlie Daniels Band
 
-- [Million Mile Reflections [UK]](Beets/The_Charlie_Daniels_Band/Million_Mile_Reflections_[UK].md)
+- [Million Mile Reflections (UK)](Beets/The_Charlie_Daniels_Band/Million_Mile_Reflections_[UK].md)
 
 ### The Chicks
 
@@ -5524,7 +5327,7 @@
 
 ### The Cowsills
 
-- [The Best of the Cowsills [Rebound]](Beets/The_Cowsills/The_Best_of_the_Cowsills_[Rebound].md)
+- [The Best of the Cowsills (Rebound)](Beets/The_Cowsills/The_Best_of_the_Cowsills_[Rebound].md)
 
 ### The Cramps
 
@@ -5569,7 +5372,7 @@
 
 - [2009/05/14 Shoreline Amphitheater](Beets/The_Dead/2009-05-14_Shoreline_Amphitheater.md)
 - [5-14-2009 Shoreline Amphitheatre](Beets/The_Dead/5-14-2009_Shoreline_Amphitheatre.md)
-- [The Dead, May 14, 2009 Shoreline - [Disc 1]](Beets/The_Dead/The_Dead__May_14__2009_Shoreline_-_[Disc_1].md)
+- [The Dead, May 14, 2009 Shoreline - Disc 1](Beets/The_Dead/The_Dead__May_14__2009_Shoreline_-_[Disc_1].md)
 
 ### The Dead Weather
 
@@ -5769,7 +5572,7 @@
 
 - [The Ultimate Collection](Beets/The_Jackson_5/The_Ultimate_Collection.md)
 
-### The J.b.’s
+### The J.B.’s
 
 - [Pass the Peas](Beets/The_Jb’s/Pass_the_Peas.md)
 
@@ -5817,7 +5620,7 @@
 
 - [Best of Bootie 2009 v.2](Beets/The_Kleptones/Best_of_Bootie_2009_v2.md)
 
-### The Klf
+### The KLF
 
 - [The White Room](Beets/The_Klf/The_White_Room.md)
 
@@ -5879,7 +5682,7 @@
 ### The Mcguire Sisters
 
 - [Greatest Hits](Beets/The_Mcguire_Sisters/Greatest_Hits.md)
-- [The Best of the McGuire Sisters [Coral]](Beets/The_Mcguire_Sisters/The_Best_of_the_McGuire_Sisters_[Coral].md)
+- [The Best of the McGuire Sisters (Coral)](Beets/The_Mcguire_Sisters/The_Best_of_the_McGuire_Sisters_[Coral].md)
 - [Unforgettable Fifties Disk 3](Beets/The_Mcguire_Sisters/Unforgettable_Fifties_Disk_3.md)
 - [Unknown Album](Beets/The_Mcguire_Sisters/Unknown_Album.md)
 
@@ -5985,9 +5788,6 @@
 - [It'll Shine When It Shines](Beets/The_Ozark_Mountain_Daredevils/Itll_Shine_When_It_Shines.md)
 - [The Car Over the Lake Album](Beets/The_Ozark_Mountain_Daredevils/The_Car_Over_the_Lake_Album.md)
 
-### The Pack A.d_
-
-
 ### The Platters
 
 - [Enchanted](Beets/The_Platters/Enchanted.md)
@@ -6017,7 +5817,7 @@
 ### The Pretenders
 
 - [Pretenders](Beets/The_Pretenders/Pretenders.md)
-- [Pretenders II [Disc 2]](Beets/The_Pretenders/Pretenders_II_[Disc_2].md)
+- [Pretenders II Disc 2](Beets/The_Pretenders/Pretenders_II_[Disc_2].md)
 
 ### The Pretty Things
 
@@ -6147,18 +5947,15 @@
 
 - [The Great Crossover Potential](Beets/The_Sugarcubes/The_Great_Crossover_Potential.md)
 
-### The Sun Sawed In 1_2
-
-
 ### The Swingers
 
 - [Power Pop Explosion! 1980 -1983](Beets/The_Swingers/Power_Pop_Explosion!_1980_-1983.md)
 
 ### The Temptations
 
-- [Best of the Temptations [Wise Buy]](Beets/The_Temptations/Best_of_the_Temptations_[Wise_Buy].md)
-- [Psychedelic Soul [Disc 1]](Beets/The_Temptations/Psychedelic_Soul_[Disc_1].md)
-- [Psychedelic Soul [Disc 2]](Beets/The_Temptations/Psychedelic_Soul_[Disc_2].md)
+- [Best of the Temptations (Wise Buy)](Beets/The_Temptations/Best_of_the_Temptations_[Wise_Buy].md)
+- [Psychedelic Soul Disc 1](Beets/The_Temptations/Psychedelic_Soul_[Disc_1].md)
+- [Psychedelic Soul Disc 2](Beets/The_Temptations/Psychedelic_Soul_[Disc_2].md)
 
 ### The Temptations Review Featuring Dennis Edwards
 
@@ -6201,7 +5998,7 @@
 
 ### The Velvet Underground
 
-- [Live MCMXCIII [Single Disc]](Beets/The_Velvet_Underground/Live_MCMXCIII_[Single_Disc].md)
+- [Live MCMXCIII (Single Disc)](Beets/The_Velvet_Underground/Live_MCMXCIII_[Single_Disc].md)
 
 ### The Ventures
 
@@ -6330,7 +6127,7 @@
 ### Todd Rundgren
 
 - [2nd Wind](Beets/Todd_Rundgren/2nd_Wind.md)
-- [[Re]Production](Beets/Todd_Rundgren/[Re]Production.md)
+- [(Re)Production](Beets/Todd_Rundgren/[Re]Production.md)
 - [A Wizard, a True Star](Beets/Todd_Rundgren/A_Wizard__a_True_Star.md)
 - [Arena](Beets/Todd_Rundgren/Arena.md)
 - [No World Order](Beets/Todd_Rundgren/No_World_Order.md)
@@ -6346,7 +6143,7 @@
 - [Faithful](Beets/Todd_Rundgren/Faithful.md)
 - [Grok This](Beets/Todd_Rundgren/Grok_This.md)
 - [Initiation](Beets/Todd_Rundgren/Initiation.md)
-- [State [Disc 2]](Beets/Todd_Rundgren/State_[Disc_2].md)
+- [State Disc 2](Beets/Todd_Rundgren/State_[Disc_2].md)
 - [The Ever Popular Tortured Artist Effect](Beets/Todd_Rundgren/The_Ever_Popular_Tortured_Artist_Effect.md)
 - [Todd Rundgren vs. Utopia](Beets/Todd_Rundgren/Todd_Rundgren_vs_Utopia.md)
 - [Todd Rundgren](Beets/Todd_Rundgren/Todd_Rundgren.md)
@@ -6412,15 +6209,6 @@
 - [The Black Rider](Beets/Tom_Waits/The_Black_Rider.md)
 - [The Heart of Saturday Night](Beets/Tom_Waits/The_Heart_of_Saturday_Night.md)
 
-### Tom Yorke
-
-
-### Tonic
-
-
-### Tonio K_
-
-
 ### Tony Bennett
 
 - [16 Most Requested Songs](Beets/Tony_Bennett/16_Most_Requested_Songs.md)
@@ -6443,9 +6231,6 @@
 
 - [Undertow](Beets/Tool/Undertow.md)
 - [Ænima](Beets/Tool/Ænima.md)
-
-### Tori Amos
-
 
 ### T-pain
 
@@ -6471,7 +6256,7 @@
 ### Traveling Wilburys
 
 - [The Traveling Wilburys](Beets/Traveling_Wilburys/The_Traveling_Wilburys.md)
-- [Traveling Wilburys [Disc 2]](Beets/Traveling_Wilburys/Traveling_Wilburys_[Disc_2].md)
+- [Traveling Wilburys Disc 2](Beets/Traveling_Wilburys/Traveling_Wilburys_[Disc_2].md)
 - [Traveling Wilburys, Vol. 1](Beets/Traveling_Wilburys/Traveling_Wilburys__Vol_1.md)
 
 ### Travis
@@ -6496,7 +6281,7 @@
 
 ### Triumvirat
 
-- [Illusions On A Double Dimple [Rem. +4]](Beets/Triumvirat/Illusions_On_A_Double_Dimple_[Rem_+4].md)
+- [Illusions On A Double Dimple (Rem. +4)](Beets/Triumvirat/Illusions_On_A_Double_Dimple_[Rem_+4].md)
 
 ### True Love
 
@@ -6514,8 +6299,8 @@
 ### Twinemen
 
 - [Twinemen](Beets/Twinemen/Twinemen.md)
-- [Twinemen - Chicago, IL 02.02.03 [Disc 1]](Beets/Twinemen/Twinemen_-_Chicago__IL_020203_[Disc_1].md)
-- [Twinemen - Chicago, IL 02.02.03 [Disc 2]](Beets/Twinemen/Twinemen_-_Chicago__IL_020203_[Disc_2].md)
+- [Twinemen - Chicago, IL 02.02.03 Disc 1](Beets/Twinemen/Twinemen_-_Chicago__IL_020203_[Disc_1].md)
+- [Twinemen - Chicago, IL 02.02.03 Disc 2](Beets/Twinemen/Twinemen_-_Chicago__IL_020203_[Disc_2].md)
 
 ### Ty
 
@@ -6545,9 +6330,6 @@
 ### Unkle
 
 - [Psyence Fiction](Beets/Unkle/Psyence_Fiction.md)
-
-### Unknown Artist
-
 
 ### Unshakable Race
 
@@ -6661,7 +6443,7 @@
 - [For Our Children](Beets/Various_Artists/For_Our_Children.md)
 - [Full Circle](Beets/Various_Artists/Full_Circle.md)
 - [Garden State](Beets/Various_Artists/Garden_State.md)
-- [Goa 2011 Vol. 1 [Disc 1]](Beets/Various_Artists/Goa_2011_Vol_1_[Disc_1].md)
+- [Goa 2011 Vol. 1 Disc 1](Beets/Various_Artists/Goa_2011_Vol_1_[Disc_1].md)
 - [Golden Age of American Rock 'n' Roll, Vol. 7](Beets/Various_Artists/Golden_Age_of_American_Rock_n_Roll__Vol_7.md)
 - [Golden Rock'n Rollers](Beets/Various_Artists/Golden_Rockn_Rollers.md)
 - [Good Old Country](Beets/Various_Artists/Good_Old_Country.md)
@@ -6674,7 +6456,7 @@
 - [Hook Heaven 2](Beets/Various_Artists/Hook_Heaven_2.md)
 - [I Love Rock & Roll](Beets/Various_Artists/I_Love_Rock_and_Roll.md)
 - [International Pop Overthrow](Beets/Various_Artists/International_Pop_Overthrow.md)
-- [International Pop Overthrow Vol. 20 - [Disc 3]](Beets/Various_Artists/International_Pop_Overthrow_Vol_20_-_[Disc_3].md)
+- [International Pop Overthrow Vol. 20 - Disc 3](Beets/Various_Artists/International_Pop_Overthrow_Vol_20_-_[Disc_3].md)
 - [Jefferson Starship - The Box Set Series_Flights Beyond](Beets/Various_Artists/Jefferson_Starship_-_The_Box_Set_Series_Flights_Beyond.md)
 - [Johnny Depp's Favorites](Beets/Various_Artists/Johnny_Depps_Favorites.md)
 - [Jukebox Jive](Beets/Various_Artists/Jukebox_Jive.md)
@@ -6730,24 +6512,24 @@
 - [Philharmania](Beets/Various_Artists/Philharmania.md)
 - [Phosphene River](Beets/Various_Artists/Phosphene_River.md)
 - [Pop Geek Heaven Surprise Box - Pt. 4](Beets/Various_Artists/Pop_Geek_Heaven_Surprise_Box_-_Pt_4.md)
-- [PopGeekHeaven Present Power Pop Prime Vol. 9 [Disc 3]](Beets/Various_Artists/PopGeekHeaven_Present_Power_Pop_Prime_Vol_9_[Disc_3].md)
-- [PopGeekHeaven Presents Power Pop Prime Volume 9 [Disc 2]](Beets/Various_Artists/PopGeekHeaven_Presents_Power_Pop_Prime_Volume_9_[Disc_2].md)
+- [PopGeekHeaven Present Power Pop Prime Vol. 9 Disc 3](Beets/Various_Artists/PopGeekHeaven_Present_Power_Pop_Prime_Vol_9_[Disc_3].md)
+- [PopGeekHeaven Presents Power Pop Prime Volume 9 Disc 2](Beets/Various_Artists/PopGeekHeaven_Presents_Power_Pop_Prime_Volume_9_[Disc_2].md)
 - [PopGeekHeaven's The Best Of 2017](Beets/Various_Artists/PopGeekHeavens_The_Best_Of_2017.md)
 - [Pottery Barn](Beets/Various_Artists/Pottery_Barn.md)
 - [Power Pop - The Best of 2015](Beets/Various_Artists/Power_Pop_-_The_Best_of_2015.md)
 - [Power Pop - The Best Of 2016](Beets/Various_Artists/Power_Pop_-_The_Best_Of_2016.md)
-- [Power Pop Planet Volume 1 [Disc 2]](Beets/Various_Artists/Power_Pop_Planet_Volume_1_[Disc_2].md)
-- [Power Pop Planet Volume 2 [Disc 2]](Beets/Various_Artists/Power_Pop_Planet_Volume_2_[Disc_2].md)
-- [Power Pop Planet Volume 3 [Disc 2]](Beets/Various_Artists/Power_Pop_Planet_Volume_3_[Disc_2].md)
+- [Power Pop Planet Volume 1 Disc 2](Beets/Various_Artists/Power_Pop_Planet_Volume_1_[Disc_2].md)
+- [Power Pop Planet Volume 2 Disc 2](Beets/Various_Artists/Power_Pop_Planet_Volume_2_[Disc_2].md)
+- [Power Pop Planet Volume 3 Disc 2](Beets/Various_Artists/Power_Pop_Planet_Volume_3_[Disc_2].md)
 - [Power Pop Planet Volume 4](Beets/Various_Artists/Power_Pop_Planet_Volume_4.md)
-- [Power Pop Planet Volume 4 [Disc 2]](Beets/Various_Artists/Power_Pop_Planet_Volume_4_[Disc_2].md)
+- [Power Pop Planet Volume 4 Disc 2](Beets/Various_Artists/Power_Pop_Planet_Volume_4_[Disc_2].md)
 - [Power Pop Prime - Volume 1](Beets/Various_Artists/Power_Pop_Prime_-_Volume_1.md)
 - [Power Pop Prime - Volume 2](Beets/Various_Artists/Power_Pop_Prime_-_Volume_2.md)
 - [Power Pop Prime - Volume 3](Beets/Various_Artists/Power_Pop_Prime_-_Volume_3.md)
 - [Psychedelic Salon](Beets/Various_Artists/Psychedelic_Salon.md)
 - [Pure Love Moods Vol. 2](Beets/Various_Artists/Pure_Love_Moods_Vol_2.md)
 - [Pure Pop For Cool People - A Compilation of Not Lame 1999 Releases](Beets/Various_Artists/Pure_Pop_For_Cool_People_-_A_Compilation_of_Not_Lame_1999_Releases.md)
-- [Radio Gold [Compose]](Beets/Various_Artists/Radio_Gold_[Compose].md)
+- [Radio Gold (Compose)](Beets/Various_Artists/Radio_Gold_[Compose].md)
 - [Record Store Day April 22, 2017 (Blue CD Sampler)](Beets/Various_Artists/Record_Store_Day_April_22__2017_Blue_CD_Sampler.md)
 - [Record Store Day April 22, 2017 (Yellow CD Sampler)](Beets/Various_Artists/Record_Store_Day_April_22__2017_Yellow_CD_Sampler.md)
 - [Red Radio Vol. 3 - Happy Birthday](Beets/Various_Artists/Red_Radio_Vol_3_-_Happy_Birthday.md)
@@ -6757,7 +6539,7 @@
 - [Sentimental Journey, Vol. 4](Beets/Various_Artists/Sentimental_Journey__Vol_4.md)
 - [Shake Some Action](Beets/Various_Artists/Shake_Some_Action.md)
 - [Shake Some Action!](Beets/Various_Artists/Shake_Some_Action!.md)
-- [Sisters of Soul [Crimson]](Beets/Various_Artists/Sisters_of_Soul_[Crimson].md)
+- [Sisters of Soul (Crimson)](Beets/Various_Artists/Sisters_of_Soul_[Crimson].md)
 - [Six Years of Power Pop!](Beets/Various_Artists/Six_Years_of_Power_Pop!.md)
 - [Sliding Doors](Beets/Various_Artists/Sliding_Doors.md)
 - [Soul Hits of the 70s](Beets/Various_Artists/Soul_Hits_of_the_70s.md)
@@ -6792,7 +6574,7 @@
 - [Timeless](Beets/Various_Artists/Timeless.md)
 - [Town Hall Party 8-8-1959](Beets/Various_Artists/Town_Hall_Party_8-8-1959.md)
 - [Treasure Chest Of Awesome](Beets/Various_Artists/Treasure_Chest_Of_Awesome.md)
-- [Very Best of Country [Crimson] Disc 1](Beets/Various_Artists/Very_Best_of_Country_[Crimson]_Disc_1.md)
+- [Very Best of Country (Crimson) Disc 1](Beets/Various_Artists/Very_Best_of_Country_[Crimson]_Disc_1.md)
 - [Very Oldie Goldies Vol. 2](Beets/Various_Artists/Very_Oldie_Goldies_Vol_2.md)
 - [Very Oldie Goldies Vol. 3](Beets/Various_Artists/Very_Oldie_Goldies_Vol_3.md)
 - [Very Oldie Goldies Vol. 4](Beets/Various_Artists/Very_Oldie_Goldies_Vol_4.md)
@@ -6836,15 +6618,9 @@
 
 - [Rockin’ With Wanda](Beets/Wanda_Jackson/Rockin’_With_Wanda.md)
 
-### Warlocks
-
-
 ### Warren Zevon
 
 - [The Wind](Beets/Warren_Zevon/The_Wind.md)
-
-### Warriorpoets
-
 
 ### Waylon Jennings
 
@@ -6885,9 +6661,6 @@
 - [Weezer](Beets/Weezer/Weezer.md)
 - [Weezer (White Album)](Beets/Weezer/Weezer_White_Album.md)
 
-### _weird Al_ Yankovic
-
-
 ### “weird Al” Yankovic
 
 - [Dare to Be Stupid](Beets/“weird_Al”_Yankovic/Dare_to_Be_Stupid.md)
@@ -6901,9 +6674,6 @@
 ### Wham!
 
 - [Make It Big](Beets/Wham!/Make_It_Big.md)
-
-### Wheeler Walker Jr_
-
 
 ### Who's Holdin'
 
@@ -6946,9 +6716,6 @@
 
 - [Ripe & Ruin](Beets/Willow_and_Gianna/Ripe_and_Ruin.md)
 
-### Will Rogers Jr_
-
-
 ### Wilson Pickett
 
 - [The Best Of Wilson Pickett](Beets/Wilson_Pickett/The_Best_Of_Wilson_Pickett.md)
@@ -6988,7 +6755,7 @@
 - [Los Angeles / Wild Gift](Beets/X/Los_Angeles_-_Wild_Gift.md)
 - [True Love, Part II](Beets/X/True_Love__Part_II.md)
 
-### Xtc
+### XTC
 
 - [Apple Venus, Volume 1](Beets/Xtc/Apple_Venus__Volume_1.md)
 - [Oranges & Lemons](Beets/Xtc/Oranges_and_Lemons.md)
@@ -7033,7 +6800,7 @@
 
 ## Z
 
-### Zhu
+### ZHU
 
 - [DREAMLAND (DELUXE)](Beets/Zhu/DREAMLAND_DELUXE.md)
 - [Musical Chairs Mixtape, Vol. 1](Beets/Zhu/Musical_Chairs_Mixtape__Vol_1.md)

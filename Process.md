@@ -1,3 +1,9 @@
+---
+banner: "assets/banners/Process-Banner.png"
+banner_x: 0.8
+banner_y: 0.2
+---
+
 # Process
 
 Several custom scripts and utilities were used to automate the generation of markdown files in the Obsidian Beets Vault. To index and categorize a [Beets music library](https://beets.io/), the [MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus#readme) package can be used. MusicPlayerPlus provides command line utilities that can be used to query, list, and manage various aspects of a Beets library. The scripts used to produce the Beets markdown for this repository can be found in `Tools/Beets/`. Example Beets markdown can be viewed at:
@@ -13,5 +19,5 @@ The first step is gathering data sources. That step, for this vault, was exporti
 ## See_also
 
 - [README](README.md)
-- [Media Queries](Media_Queries.md)
+- [Beets Queries](Beets_Queries.md)
 

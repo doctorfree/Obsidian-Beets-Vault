@@ -1,4 +1,10 @@
-# Media Queries
+---
+banner: "assets/banners/Dataview-Banner.png"
+banner_x: 0.8
+banner_y: 0.2
+---
+
+# Beets Queries
 
 The Obsidian Beets Vault markdown contains metadata with tags allowing a variety of queries using the [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin for [Obsidian](https://obsidian.md/).
 
@@ -47,8 +53,15 @@ WHERE albumartist = "Yes" and year < 1980
 SORT year ASC
 ```
 
+### Beets albums filtered with Dataview queries
+
+- [All Beets Albums](Dataviews/Beets_Albums.md)
+- [Beets Albums released in 1977](Dataviews/Beets_Albums_1977.md)
+- [Beets Albums released in the 70s](Dataviews/Beets_Albums_70s.md)
+- [Beets Albums in a Progressive genre](Dataviews/Beets_Progressive.md)
+
 ## See also
 
-- [Index of the Media Vault](Beets_Albums_by_Artist.md)
+- [Index of the Beets Vault](Beets_Albums_by_Artist.md)
 - [README](README.md)
 - [Process](Process.md)

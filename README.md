@@ -1,4 +1,8 @@
-![](assets/obsidian.png)
+---
+banner: "assets/banners/Obsidian-Banner.png"
+banner_x: 0.8
+banner_y: 0.2
+---
 
 # Obsidian Beets Vault
 
@@ -26,12 +30,12 @@ Get started browsing the [Obsidian Beets Vault](Beets_Albums_by_Artist.md).
 1. [Download the vault](https://github.com/doctorfree/Obsidian-Beets-Vault/releases/latest)
 3. Open the vault in Obsidian via "Open another vault -> Open folder as vault"
 4. Trust us. :) 
-5. When Obsidian opens the settings, hit the switch on "Dataview" to enable the plugin
+5. When Obsidian opens the settings, verify the "Dataview" and other community plugins are enabled
 6. Done! The Obsidian Beets Vault is now available to you in its purest and most useful form!
 
 ## Dataview
 
-The Obsidian Beets Vault has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Media Queries](Media_Queries.md) document.
+The Obsidian Beets Vault has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Beets Queries](Beets_Queries.md) document.
 
 Additional visual representations of the Beets Vault, also based upon Dataview queries, are provided by the [Excalibrain](https://github.com/zsviczian/excalibrain) Obsidian plugin.
 
@@ -75,7 +79,12 @@ SORT published ASC
 
 ![Dataview Queries](assets/dataview.png)
 
-Sample queries along with the code used to perform them can be viewed in the [Media Queries](Media_Queries.md) document.
+Sample queries along with the code used to perform them can be viewed in the [Beets Queries](Beets_Queries.md) document. Additional example Beets Dataview queries can be viewed at:
+
+- [All Beets Albums](Dataviews/Beets_Albums.md)
+- [Beets Albums released in 1977](Dataviews/Beets_Albums_1977.md)
+- [Beets Albums released in the 70s](Dataviews/Beets_Albums_70s.md)
+- [Beets Albums in a Progressive genre](Dataviews/Beets_Progressive.md)
 
 ## Beets_library
 
@@ -112,5 +121,5 @@ Obsidian community plugins we have found useful and can recommend include the fo
 ## See_also
 
 - [Index of the Beets Vault](Beets_Albums_by_Artist.md)
-- [Media Queries](Media_Queries.md)
+- [Beets Queries](Beets_Queries.md)
 - [Process](Process.md)
