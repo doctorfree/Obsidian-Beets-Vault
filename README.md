@@ -1,8 +1,4 @@
----
-banner: "assets/banners/Obsidian-Banner.png"
-banner_x: 0.8
-banner_y: 0.2
----
+![](assets/obsidian.png)
 
 # Obsidian Beets Vault
 
